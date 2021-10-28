@@ -8,7 +8,7 @@ function App() {
 
   let gameState = {
     player: {
-      x: 300,
+      x: 301,
       y: 300,
     }
   };
